@@ -1,0 +1,37 @@
+# --- IDEs y Editores ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Archivos del Sistema ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# --- C / C++ / Arduino ---
+*.exe
+*.out
+*.app
+*.o
+*.obj
+build/
+bin/
+*.hex
+
+# --- Node.js ---
+node_modules/
+npm-debug.log*
+
+# --- Archivos de configuración sensible (Seguridad) ---
+.env
+*.log
