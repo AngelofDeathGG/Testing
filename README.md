@@ -4,7 +4,7 @@ Plantilla generica para iniciar un proyecto Node.js.
 
 ## Descripcion
 
-Este proyecto esta pensado como base para una aplicacion Node.js. Aqui puedes agregar tu API, servicio, CLI o app web segun lo necesites. Este proyecto es sobre JasaScript.
+Este proyecto esta pensado como base para una aplicacion Node.js. Aqui puedes agregar tu API, servicio, CLI o app web segun lo necesites. Este proyecto es sobre JasaScript. Esta perfecto.
 
 ## Requisitos
 
